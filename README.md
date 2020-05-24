@@ -1,7 +1,7 @@
 # amplify-auth-norwegian-bokmaal
 A translation file for use with aws amplify auth pre-built UI
 
-***Usage
+# Usage
 ```
 import { I18n } from '@aws-amplify/core';
 import { strings } from './norwegian';
